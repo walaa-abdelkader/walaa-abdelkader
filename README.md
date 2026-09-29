@@ -1,132 +1,52 @@
-# Walaa Abdelkader Ahmed
+# ✦ WALAA ABDELKADER AHMED
 
-### Data Analyst · Business Intelligence · Graphic & UI/UX Designer
+### `DATA ANALYST` × `BUSINESS INTELLIGENCE` × `CREATIVE DESIGN`
 
-I combine **data-driven analysis with creative visual design** to transform complex information into clear insights, meaningful dashboards, and engaging digital experiences.
+> **Where creativity meets data.**
 
----
+I turn **raw data into insights** and **ideas into visual experiences**.
 
-## 👩🏻‍💻 About Me
-
-I'm a multidisciplinary professional with a background in **Data Analytics, Business Intelligence, Graphic Design, and UI/UX Design**.
-
-My work combines analytical thinking with visual communication — from transforming raw data and building interactive dashboards to creating visual identities and digital interfaces.
-
-Currently focusing on developing my skills in **Data Analytics and Business Intelligence**, while continuing to leverage my design background to create clear and engaging data visualizations.
+With a background across **Data Analytics, Business Intelligence, Graphic Design & UI/UX**, I enjoy working where analytical thinking meets visual communication.
 
 ---
 
-## 🛠️ Skills & Tools
+### ◈ MY CREATIVE + ANALYTICAL SPACE
 
-### 📊 Data Analytics & Business Intelligence
+```text
+        CREATIVE                          ANALYTICAL
+           ↓                                  ↓
 
-* Microsoft Excel
-* Power Query
-* Power Pivot
-* Power BI
-* Tableau
-* DAX
-* SQL
-* Python
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* KPI Analysis
-* Data Visualization
-* Business Reporting
+   Graphic Design                     Data Analytics
+   UI / UX Design                     Business Intelligence
+   Visual Identity                    Data Visualization
+   Digital Experiences                KPI & Reporting
 
-### 🎨 Design & UI/UX
-
-* Adobe Photoshop
-* Adobe Illustrator
-* Canva
-* Figma
-* Graphic Design
-* Brand Identity
-* Social Media Design
-* Marketing Design
-* UI/UX Design
-* Wireframing
-* Prototyping
+                    ╲              ╱
+                     ╲            ╱
+                      ╲          ╱
+                       ✦  ME  ✦
+```
 
 ---
 
-## 📂 Projects
+## ⟡ WHAT I WORK WITH
 
-### 📊 Data Analytics & Business Intelligence
+**DATA**
 
-| Project                             | Tools                                    |
-| ----------------------------------- | ---------------------------------------- |
-| **Restaurant Inventory Management** | Excel · Power Query · Power Pivot        |
-| **Health & Fitness Analytics**      | Power BI · DAX · Power Query             |
-| **Sales Performance Analytics**     | Power BI · DAX · Power Query             |
-| **HR Analytics Dashboard**          | Tableau · Calculated Fields · Parameters |
+`Excel` `Power Query` `Power Pivot` `Power BI`
+`Tableau` `DAX` `SQL` `Python`
 
----
+**DESIGN**
 
-### 🐍 Python
+`Photoshop` `Illustrator` `Canva` `Figma`
 
-*Projects coming soon.*
+**FOCUS**
 
----
-
-### 🗄️ SQL
-
-*Projects coming soon.*
+`Data Analysis` · `Data Visualization` · `Dashboard Design`
+`Business Intelligence` · `UI/UX` · `Visual Communication`
 
 ---
 
-### 🎨 Graphic Design
+# ◇ SELECTED WORK
 
-* **Construction & Real Estate Social Media**
-* **INTELLIO Digital Content**
-* **Construction Campaign Designs**
-* **Graphic Design Portfolio**
-
----
-
-### 📱 UI/UX
-
-* **Blockchain Shopping App** — Figma
-
----
-
-## 📈 What I Do
-
-**Data Analytics**
-Transforming and analyzing data to identify patterns, trends, and actionable insights.
-
-**Business Intelligence**
-Creating interactive dashboards and KPI reports using Power BI, Tableau, and Excel.
-
-**Data Visualization**
-Turning complex datasets into clear and meaningful visual stories.
-
-**Graphic Design**
-Creating brand identities, marketing materials, social media content, and visual campaigns.
-
-**UI/UX Design**
-Designing intuitive digital interfaces, wireframes, prototypes, and user experiences.
-
----
-
-## 🔗 Connect With Me
-
-* 💼 LinkedIn — [Walaa Abdelkader Ahmed](https://www.linkedin.com/in/walaaabdelkader)
-* 🎨 Behance — [Walaa Abdelkadir](https://www.behance.net/walaaabdelkadir)
-* 📊 Tableau Public — [View My Dashboards](https://public.tableau.com/app/profile/walaa.albasher/vizzes)
-* 🌐 Portfolio — *Coming Soon*
-
----
-
-## 📫 Contact
-
-**Email:** [walaa.abdelkader6@gmail.com](mailto:walaa.abdelkader6@gmail.com)
-
-I'm open to opportunities, freelance projects, and collaborations in **Data Analytics, Business Intelligence, Graphic Design, and UI/UX Design**.
-
----
-
-<p align="center">
-  <i>Where creativity meets data.</i>
-</p>
+### `01` — DA
