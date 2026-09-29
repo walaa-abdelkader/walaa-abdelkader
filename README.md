@@ -1,52 +1,47 @@
+<div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello"/>
+
 # ✦ WALAA ABDELKADER AHMED
 
 ### `DATA ANALYST` × `BUSINESS INTELLIGENCE` × `CREATIVE DESIGN`
 
-> **Where creativity meets data.**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=C7A9D0&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%E2%9C%A6;Turning+Ideas+into+Visuals+%E2%9C%A6;Design+%C3%97+Data+%3D+My+Creative+Space" alt="Typing SVG"/>
 
-I turn **raw data into insights** and **ideas into visual experiences**.
+<br>
 
-With a background across **Data Analytics, Business Intelligence, Graphic Design & UI/UX**, I enjoy working where analytical thinking meets visual communication.
+![Profile Views](https://komarev.com/ghpvc/?username=WalaaAbdelkaderAhmed\&style=flat\&color=6F5874\&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-### ◈ MY CREATIVE + ANALYTICAL SPACE
+<div align="center">
+
+### `✦ DESIGN × DATA ✦`
+
+**I don't just analyze data.
+I turn it into something people can understand.**
+
+**I don't just design visuals.
+I create visuals with purpose.**
+
+</div>
+
+<br>
+
+<div align="center">
+
+`📊 ANALYZE`　→　`🔎 DISCOVER`　→　`📈 VISUALIZE`　→　`💡 INSIGHT`　→　`🎨 DESIGN`
+
+</div>
+
+---
+
+## 🪄 A LITTLE ABOUT MY SPACE
 
 ```text
-        CREATIVE                          ANALYTICAL
-           ↓                                  ↓
-
-   Graphic Design                     Data Analytics
-   UI / UX Design                     Business Intelligence
-   Visual Identity                    Data Visualization
-   Digital Experiences                KPI & Reporting
-
-                    ╲              ╱
-                     ╲            ╱
-                      ╲          ╱
-                       ✦  ME  ✦
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│   📊 DATA
 ```
-
----
-
-## ⟡ WHAT I WORK WITH
-
-**DATA**
-
-`Excel` `Power Query` `Power Pivot` `Power BI`
-`Tableau` `DAX` `SQL` `Python`
-
-**DESIGN**
-
-`Photoshop` `Illustrator` `Canva` `Figma`
-
-**FOCUS**
-
-`Data Analysis` · `Data Visualization` · `Dashboard Design`
-`Business Intelligence` · `UI/UX` · `Visual Communication`
-
----
-
-# ◇ SELECTED WORK
-
-### `01` — DA
