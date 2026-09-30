@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=%D9%88%D9%84%D8%A7%D8%A1%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1%20%D8%A3%D8%AD%D9%85%D8%AF%20%20%7C%20%20WALAA%20ABDELKADER%20AHMED&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="ولاء عبدالقادر أحمد | WALAA ABDELKADER AHMED"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=C7A9D0&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%E2%9C%A6;Turning+Ideas+into+Visuals+%E2%9C%A6;Raw+Data+%E2%86%92+Story+%E2%86%92+Impact;Data+%C3%97+Design+%3D+My+Creative+Space" alt="Typing SVG"/>
 
@@ -11,34 +11,28 @@
 [![Behance](https://img.shields.io/badge/🎨_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/walaaabdelkadir)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walaaabdelkader/)
 
-</div>
+<br>
 
----
-
-## ✦ ABOUT ME
-
-<div align="center">
+<img src="assets/title-about.svg" width="100%" alt="About me"/>
 
 > *I turn raw data into clear insights,*
 > *and clear insights into visuals people remember.*
 
-</div>
-
 I'm a **Data Analyst & Business Intelligence enthusiast** with a creative design background. I enjoy turning messy data into meaningful visualizations and practical business stories.
-
-<div align="center">
 
 `DATA` × `ANALYSIS` × `VISUALIZATION` × `DESIGN`
 
 **Languages I work in:** `Python` · `SQL`
 
-</div>
+<br>
 
----
+<img src="assets/title-journey.svg" width="100%" alt="My data journey"/>
 
-## ✦ TOOLKIT
+<img src="assets/pipeline.svg" width="100%" alt="Raw data, clean, explore, analyze, visualize, insight"/>
 
-<div align="center">
+<br>
+
+<img src="assets/title-toolkit.svg" width="100%" alt="Toolkit"/>
 
 **📊 Data & Business Intelligence**
 
@@ -72,117 +66,39 @@ I'm a **Data Analyst & Business Intelligence enthusiast** with a creative design
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</div>
+<br><br>
 
----
+<img src="assets/title-projects.svg" width="100%" alt="Featured projects"/>
 
-## ✦ MY DATA JOURNEY
+<a href="https://github.com/walaa-abdelkader/Hotel-Booking-Demand-Analysis-py"><img src="assets/card-python.svg" width="48%" alt="Hotel Booking Demand Analysis"/></a>
+<a href="https://github.com/walaa-abdelkader/Hotel-Management-SQL"><img src="assets/card-sql.svg" width="48%" alt="Hotel Management Database & Analytics"/></a>
 
-```mermaid
-flowchart LR
-    A([✦ Raw Data]) --> B[🧹 Clean]
-    B --> C[🔍 Explore]
-    C --> D[📐 Analyze]
-    D --> E[📊 Visualize]
-    E --> F([✦ Insight])
-    F --> G([🚀 Decision])
+<br>
 
-    style A fill:#2b2139,stroke:#C7A9D0,color:#fff
-    style F fill:#C7A9D0,stroke:#fff,color:#1a1325
-    style G fill:#8e6fb0,stroke:#fff,color:#fff
-```
+<img src="assets/title-what.svg" width="100%" alt="What I do"/>
 
-<div align="center">
+<img src="assets/orbit.svg" width="100%" alt="Data analysis, SQL, Python, Business Intelligence and Creative Design all lead to insight"/>
 
-### `DATA` → `STORY` → `IMPACT`
+<br>
 
-</div>
-
----
-
-## ✦ FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Hotel Booking Demand Analysis
-
-*Why do guests cancel, and when do they book?*
-
-Explores booking patterns, cancellations, pricing, and customer behavior to surface what drives demand.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-**[→ View Repository](https://github.com/walaa-abdelkader/Hotel-Booking-Demand-Analysis-py)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Hotel Management Database & Analytics
-
-*From schema to dashboard.*
-
-Covers database design, normalization, SQL analysis, programmability, performance optimization, and Power BI integration.
-
-`SQL Server` `T-SQL` `Database Design` `Power BI`
-
-**[→ View Repository](https://github.com/walaa-abdelkader/Hotel-Management-SQL)**
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ WHAT I DO
-
-<div align="center">
-
-| | Skill | What it looks like |
-|:-:|:--|:--|
-| 📊 | **Data Analysis** | Explore data · find patterns · generate insights |
-| 🗄️ | **SQL** | Query · transform · analyze |
-| 🐍 | **Python** | Clean · analyze · visualize |
-| 📈 | **Business Intelligence** | Dashboards · KPIs · business insights |
-| 🎨 | **Creative Design** | Graphic design · UI/UX · visual communication |
-
-</div>
-
----
-
-## ✦ GITHUB PULSE
-
-<div align="center">
+<img src="assets/title-pulse.svg" width="100%" alt="GitHub pulse"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=walaa-abdelkader&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&ring_color=C7A9D0" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaa-abdelkader&layout=compact&hide=jupyter%20notebook,html,css,javascript&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&text_color=ffffff" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=walaa-abdelkader&theme=radical&hide_border=true&background=0d1117&ring=C7A9D0&fire=C7A9D0&currStreakLabel=C7A9D0" width="80%"/>
 
-</div>
+<br>
 
----
+<img src="assets/title-now.svg" width="100%" alt="Currently"/>
 
-## ✦ CURRENTLY
+🔭 Building BI dashboards that tell one clear story
+🌱 Going deeper into DAX, advanced SQL, and storytelling with data
+🎯 Open to data analyst and BI opportunities
+💬 Ask me about: data visualization, SQL, or making dashboards beautiful
 
-- 🔭 Building BI dashboards that tell one clear story
-- 🌱 Going deeper into DAX, advanced SQL, and storytelling with data
-- 🎯 Open to data analyst and BI opportunities
-- 💬 Ask me about: data visualization, SQL, or making dashboards beautiful
+<br>
 
----
-
-<div align="center">
-
-### `WHERE DATA MEETS CREATIVITY`
-
-**Analyze the data.**
-**Understand the story.**
-**Design the insight.**
-
-✦ ✦ ✦
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="Where data meets creativity. Analyze the data. Understand the story. Design the insight."/>
 
 </div>
