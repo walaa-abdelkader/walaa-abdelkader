@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Walaa%20Abdelkader&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%C3%97%20Business%20Intelligence%20%C3%97%20Creative%20Design&descAlignY=58&descSize=16" width="100%"/>
+### ✦ ولاء عبدالقادر أحمد  |  WALAA ABDELKADER AHMED ✦
 
-### ✦ ولاء عبدالقادر أحمد ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Walaa%20Abdelkader&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%C3%97%20Business%20Intelligence%20%C3%97%20Creative%20Design&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=C7A9D0&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%E2%9C%A6;Turning+Ideas+into+Visuals+%E2%9C%A6;Raw+Data+%E2%86%92+Story+%E2%86%92+Impact;Data+%C3%97+Design+%3D+My+Creative+Space" alt="Typing SVG"/>
 
@@ -17,30 +17,22 @@
 
 ---
 
-## ✦ HELLO, WORLD
-
-```python
-class Walaa:
-    def __init__(self):
-        self.role      = ["Data Analyst", "BI Enthusiast", "Creative Designer"]
-        self.superpower = "Making numbers feel like stories"
-        self.stack     = ["Python", "SQL", "Power BI", "Excel", "Figma"]
-        self.mindset   = "Analyze the data. Understand the story. Design the insight."
-
-    def work(self):
-        while True:
-            yield "raw data → clean → explore → analyze → visualize → insight ✦"
-```
+## ✦ ABOUT ME
 
 <div align="center">
 
-| 🧠 The Analyst | 🎨 The Designer |
-|:---:|:---:|
-| Finds the pattern hiding in the rows | Gives the pattern a shape people remember |
-| Cleans, queries, models | Sketches, composes, polishes |
-| *"What does the data say?"* | *"How should it feel?"* |
+> *I turn raw data into clear insights,*
+> *and clear insights into visuals people remember.*
 
-### `DATA` × `DESIGN` = `INSIGHT PEOPLE ACTUALLY USE`
+</div>
+
+I'm a **Data Analyst & Business Intelligence enthusiast** with a creative design background. I enjoy turning messy data into meaningful visualizations and practical business stories.
+
+<div align="center">
+
+`DATA` × `ANALYSIS` × `VISUALIZATION` × `DESIGN`
+
+**Languages I work in:** `Python` · `SQL`
 
 </div>
 
@@ -166,7 +158,7 @@ Covers database design, normalization, SQL analysis, programmability, performanc
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=walaa-abdelkader&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&ring_color=C7A9D0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaa-abdelkader&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaa-abdelkader&layout=compact&hide=jupyter%20notebook,html,css,javascript&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&text_color=ffffff" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=walaa-abdelkader&theme=radical&hide_border=true&background=0d1117&ring=C7A9D0&fire=C7A9D0&currStreakLabel=C7A9D0" width="80%"/>
 
