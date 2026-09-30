@@ -10,13 +10,13 @@
 
 <br>
 
-[🌐 Portfolio](YOUR_PORTFOLIO_LINK)
+[🌐 Portfolio](https://walaa-abdelkader-ahmed.netlify.app/)
   •  
-[📸 Instagram](YOUR_INSTAGRAM_LINK)
+[📸 Instagram](https://www.instagram.com/woven.sa1/)
   •  
-[🎨 Behance](YOUR_BEHANCE_LINK)
+[🎨 Behance](https://www.behance.net/walaaabdelkadir)
   •  
-[💼 LinkedIn](YOUR_LINKEDIN_LINK)
+[💼 LinkedIn](https://www.linkedin.com/in/walaaabdelkader/)
 
 </div>
 
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
-### ⚙️ Development & Workflow
+### ⚙️ Workflow
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -78,25 +78,25 @@ My work combines:
 
 ### 🐍 Python
 
-**Hotel Booking Demand Analysis**
+#### Hotel Booking Demand Analysis
 
-Exploring hotel booking patterns, cancellations, pricing, and customer behavior using Python.
+Hotel booking data analysis exploring booking patterns, cancellations, pricing, and customer behavior.
 
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
-→ [View Project](./Hotel-Booking-Demand-Analysis-py)
+**→ [View Repository](https://github.com/walaa-abdelkader/Hotel-Booking-Demand-Analysis-py)**
 
 ---
 
 ### 🗄️ SQL
 
-**Hotel Management Database & Analytics**
+#### Hotel Management Database & Analytics
 
-Database design, SQL analysis, business queries, programmability, and performance optimization.
+Hotel management database project covering database design, normalization, SQL analysis, programmability, performance optimization, and Power BI integration.
 
-`SQL Server` · `T-SQL` · `Database Design` · `Data Analysis`
+`SQL Server` · `T-SQL` · `Database Design` · `Power BI`
 
-→ [View Project](./Hotel-Management-SQL)
+**→ [View Repository](https://github.com/walaa-abdelkader/Hotel-Management-SQL)**
 
 ---
 
