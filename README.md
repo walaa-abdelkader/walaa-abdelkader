@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="ولاء عبدالقادر أحمد | WALAA ABDELKADER AHMED"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=%D9%88%D9%84%D8%A7%D8%A1%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1%20%D8%A3%D8%AD%D9%85%D8%AF%20%20%7C%20%20WALAA%20ABDELKADER%20AHMED&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="ولاء عبدالقادر أحمد | WALAA ABDELKADER AHMED"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=C7A9D0&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%E2%9C%A6;Turning+Ideas+into+Visuals+%E2%9C%A6;Raw+Data+%E2%86%92+Story+%E2%86%92+Impact;Data+%C3%97+Design+%3D+My+Creative+Space" alt="Typing SVG"/>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="assets/title-about.svg" width="100%" alt="About me"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="ABOUT ME"/>
 
 > *I turn raw data into clear insights,*
 > *and clear insights into visuals people remember.*
@@ -26,13 +26,35 @@ I'm a **Data Analyst & Business Intelligence enthusiast** with a creative design
 
 <br>
 
-<img src="assets/title-journey.svg" width="100%" alt="My data journey"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20MY%20DATA%20JOURNEY%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="MY DATA JOURNEY"/>
 
-<img src="assets/pipeline.svg" width="100%" alt="Raw data, clean, explore, analyze, visualize, insight"/>
+</div>
+
+```mermaid
+flowchart LR
+    A([✦ Raw Data]) --> B[🧹 Clean]
+    B --> C[🔍 Explore]
+    C --> D[📐 Analyze]
+    D --> E[📊 Visualize]
+    E --> F([✦ Insight])
+    F --> G([🚀 Decision])
+
+    style A fill:#2b2139,stroke:#C7A9D0,color:#fff
+    style B fill:#2b2139,stroke:#C7A9D0,color:#fff
+    style C fill:#2b2139,stroke:#C7A9D0,color:#fff
+    style D fill:#2b2139,stroke:#C7A9D0,color:#fff
+    style E fill:#2b2139,stroke:#C7A9D0,color:#fff
+    style F fill:#C7A9D0,stroke:#fff,color:#1a1325
+    style G fill:#8e6fb0,stroke:#fff,color:#fff
+```
+
+<div align="center">
+
+### `DATA` → `STORY` → `IMPACT`
 
 <br>
 
-<img src="assets/title-toolkit.svg" width="100%" alt="Toolkit"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20TOOLKIT%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="TOOLKIT"/>
 
 **📊 Data & Business Intelligence**
 
@@ -68,29 +90,79 @@ I'm a **Data Analyst & Business Intelligence enthusiast** with a creative design
 
 <br><br>
 
-<img src="assets/title-projects.svg" width="100%" alt="Featured projects"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20FEATURED%20PROJECTS%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="FEATURED PROJECTS"/>
 
-<a href="https://github.com/walaa-abdelkader/Hotel-Booking-Demand-Analysis-py"><img src="assets/card-python.svg" width="48%" alt="Hotel Booking Demand Analysis"/></a>
-<a href="https://github.com/walaa-abdelkader/Hotel-Management-SQL"><img src="assets/card-sql.svg" width="48%" alt="Hotel Management Database & Analytics"/></a>
+<a href="https://github.com/walaa-abdelkader/Hotel-Booking-Demand-Analysis-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walaa-abdelkader&repo=Hotel-Booking-Demand-Analysis-py&theme=radical&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&border_color=8e6fb0&hide_border=false&show_owner=false" width="48%" alt="Hotel Booking Demand Analysis"/></a>
+<a href="https://github.com/walaa-abdelkader/Hotel-Management-SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walaa-abdelkader&repo=Hotel-Management-SQL&theme=radical&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&border_color=8e6fb0&hide_border=false&show_owner=false" width="48%" alt="Hotel Management Database & Analytics"/></a>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🐍 Hotel Booking Demand Analysis**<br>
+*Why do guests cancel, and when do they book?*<br>
+Booking patterns, cancellations, pricing, and customer behavior.<br>
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🗄️ Hotel Management Database & Analytics**<br>
+*From schema to dashboard.*<br>
+Database design, normalization, SQL analysis, programmability, performance optimization, and Power BI integration.<br>
+`SQL Server` `T-SQL` `Power BI`
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="assets/title-what.svg" width="100%" alt="What I do"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20WHAT%20I%20DO%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="WHAT I DO"/>
 
-<img src="assets/orbit.svg" width="100%" alt="Data analysis, SQL, Python, Business Intelligence and Creative Design all lead to insight"/>
+</div>
+
+```mermaid
+mindmap
+  root((✦ INSIGHT))
+    📊 Data Analysis
+      Explore data
+      Find patterns
+      Generate insights
+    🗄️ SQL
+      Query
+      Transform
+      Analyze
+    🐍 Python
+      Clean
+      Analyze
+      Visualize
+    📈 Business Intelligence
+      Dashboards
+      KPIs
+      Business insights
+    🎨 Creative Design
+      Graphic design
+      UI/UX
+      Visual communication
+```
+
+<div align="center">
 
 <br>
 
-<img src="assets/title-pulse.svg" width="100%" alt="GitHub pulse"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20GITHUB%20PULSE%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="GITHUB PULSE"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=walaa-abdelkader&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&ring_color=C7A9D0" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaa-abdelkader&layout=compact&hide=html,css,javascript&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&text_color=ffffff" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=walaa-abdelkader&theme=radical&hide_border=true&background=0d1117&ring=C7A9D0&fire=C7A9D0&currStreakLabel=C7A9D0" width="80%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=walaa-abdelkader&bg_color=0d1117&color=C7A9D0&line=8e6fb0&point=ffffff&area=true&area_color=8e6fb0&hide_border=true" width="90%" alt="Contribution activity graph"/>
+
 <br>
 
-<img src="assets/title-now.svg" width="100%" alt="Currently"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20CURRENTLY%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="CURRENTLY"/>
 
 🔭 Building BI dashboards that tell one clear story<br>
 🌱 Going deeper into DAX, advanced SQL, and storytelling with data<br>
@@ -99,6 +171,8 @@ I'm a **Data Analyst & Business Intelligence enthusiast** with a creative design
 
 <br>
 
-<img src="assets/footer.svg" width="100%" alt="Where data meets creativity. Analyze the data. Understand the story. Design the insight."/>
+**Analyze the data. Understand the story. Design the insight.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer&text=WHERE%20DATA%20MEETS%20CREATIVITY&fontSize=18&fontColor=C7A9D0&fontAlignY=68&animation=fadeIn" width="100%" alt="Where data meets creativity"/>
 
 </div>
