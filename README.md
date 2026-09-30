@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20SPECIALIZATIONS%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="Specializations"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20SPECIALIZATIONS%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="Specializations"/>
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ Interfaces and experiences designed around the people using them.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="ABOUT ME"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="ABOUT ME"/>
 
 > *I turn raw data into clear insights,*
 > *and clear insights into visuals people remember.*
@@ -53,7 +53,7 @@ I'm a **Data Analyst**, **Graphic Designer**, and **UI/UX Designer**. I enjoy tu
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20MY%20DATA%20JOURNEY%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="MY DATA JOURNEY"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20MY%20DATA%20JOURNEY%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="MY DATA JOURNEY"/>
 
 </div>
 
@@ -81,7 +81,7 @@ flowchart LR
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20TOOLKIT%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="TOOLKIT"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20TOOLKIT%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="TOOLKIT"/>
 
 **📊 Data & Business Intelligence**
 
@@ -117,7 +117,7 @@ flowchart LR
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20FEATURED%20PROJECTS%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="FEATURED PROJECTS"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20FEATURED%20PROJECTS%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="FEATURED PROJECTS"/>
 
 <a href="https://github.com/walaa-abdelkader/Hotel-Booking-Demand-Analysis-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walaa-abdelkader&repo=Hotel-Booking-Demand-Analysis-py&theme=radical&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&border_color=8e6fb0&hide_border=false&show_owner=false" width="48%" alt="Hotel Booking Demand Analysis"/></a>
 <a href="https://github.com/walaa-abdelkader/Hotel-Management-SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walaa-abdelkader&repo=Hotel-Management-SQL&theme=radical&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&border_color=8e6fb0&hide_border=false&show_owner=false" width="48%" alt="Hotel Management Database & Analytics"/></a>
@@ -145,7 +145,7 @@ Database design, normalization, SQL analysis, programmability, performance optim
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20WHAT%20I%20DO%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="WHAT I DO"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20WHAT%20I%20DO%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="WHAT I DO"/>
 
 </div>
 
@@ -180,7 +180,7 @@ mindmap
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20GITHUB%20PULSE%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="GITHUB PULSE"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20GITHUB%20PULSE%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="GITHUB PULSE"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=walaa-abdelkader&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&icon_color=C7A9D0&text_color=ffffff&ring_color=C7A9D0" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaa-abdelkader&layout=compact&hide=html,css,javascript&theme=radical&hide_border=true&bg_color=0d1117&title_color=C7A9D0&text_color=ffffff" height="165"/>
@@ -191,7 +191,7 @@ mindmap
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20CURRENTLY%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="CURRENTLY"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20CURRENTLY%20%E2%9C%A6&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="70%" alt="CURRENTLY"/>
 
 🔭 Building BI dashboards that tell one clear story<br>
 🌱 Going deeper into DAX, advanced SQL, and storytelling with data<br>
