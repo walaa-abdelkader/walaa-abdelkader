@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=%D9%88%D9%84%D8%A7%D8%A1%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1%20%D8%A3%D8%AD%D9%85%D8%AF%20%20%7C%20%20WALAA%20ABDELKADER%20AHMED&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="ولاء عبدالقادر أحمد | WALAA ABDELKADER AHMED"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=C7A9D0&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%E2%9C%A6;Turning+Ideas+into+Visuals+%E2%9C%A6;Raw+Data+%E2%86%92+Story+%E2%86%92+Impact;Data+%C3%97+Design+%3D+My+Creative+Space" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=C7A9D0&center=true&vCenter=true&width=700&lines=Data+Analyst+%E2%80%A2+Graphic+Designer+%E2%80%A2+UI%2FUX+Designer;Turning+Data+into+Insights+%E2%9C%A6;Turning+Ideas+into+Visuals+%E2%9C%A6;Raw+Data+%E2%86%92+Story+%E2%86%92+Impact;Data+%C3%97+Design+%3D+My+Creative+Space" alt="Typing SVG"/>
 
 <br>
 
@@ -13,12 +13,39 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20SPECIALIZATIONS%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="Specializations"/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📊<br>Data Analyst
+Turning raw data into clear insights, dashboards, and business stories.
+
+</td>
+<td align="center" width="33%">
+
+### 🎨<br>Graphic Designer
+Visual communication that makes ideas look good and stick.
+
+</td>
+<td align="center" width="33%">
+
+### 🖥️<br>UI/UX Designer
+Interfaces and experiences designed around the people using them.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%E2%9C%A6&fontSize=24&fontColor=C7A9D0&fontAlignY=50" width="70%" alt="ABOUT ME"/>
 
 > *I turn raw data into clear insights,*
 > *and clear insights into visuals people remember.*
 
-I'm a **Data Analyst & Business Intelligence enthusiast** with a creative design background. I enjoy turning messy data into meaningful visualizations and practical business stories.
+I'm a **Data Analyst**, **Graphic Designer**, and **UI/UX Designer**. I enjoy turning messy data into meaningful visualizations and practical business stories, then giving them a shape people remember.
 
 `DATA` × `ANALYSIS` × `VISUALIZATION` × `DESIGN`
 
@@ -141,10 +168,12 @@ mindmap
       Dashboards
       KPIs
       Business insights
-    🎨 Creative Design
-      Graphic design
-      UI/UX
+    🎨 Graphic Design
+      Visual identity
       Visual communication
+    🖥️ UI/UX Design
+      User experience
+      Interface design
 ```
 
 <div align="center">
