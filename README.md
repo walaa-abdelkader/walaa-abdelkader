@@ -1,8 +1,6 @@
 <div align="center">
 
-### ✦ ولاء عبدالقادر أحمد  |  WALAA ABDELKADER AHMED ✦
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Walaa%20Abdelkader&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%C3%97%20Business%20Intelligence%20%C3%97%20Creative%20Design&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=%D9%88%D9%84%D8%A7%D8%A1%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1%20%D8%A3%D8%AD%D9%85%D8%AF%20%20%7C%20%20WALAA%20ABDELKADER%20AHMED&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=C7A9D0&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%E2%9C%A6;Turning+Ideas+into+Visuals+%E2%9C%A6;Raw+Data+%E2%86%92+Story+%E2%86%92+Impact;Data+%C3%97+Design+%3D+My+Creative+Space" alt="Typing SVG"/>
 
